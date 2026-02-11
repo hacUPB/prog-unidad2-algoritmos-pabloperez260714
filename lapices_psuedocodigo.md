@@ -1,3 +1,9 @@
+## actividad de lapicesd 
+| variable | tipo |
+| -------- | ------ | 
+| cantidad_de_lapices | entrada |
+| precio | constante |
+| precio_total | salida |
 Inicio
 mostrar ("cuantos lapices vas a comprar")
 leer cantidad_de_lapices 
