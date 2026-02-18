@@ -6,4 +6,10 @@
 
 ## ejercisio 4
 
-![imagen2](taller_2.drawio.png)
+![imagen2](taller_ej2.drawio.png)
+
+## ejercisio 6
+
+![imagen3](taller_eje6.drawio.png)
+
+
