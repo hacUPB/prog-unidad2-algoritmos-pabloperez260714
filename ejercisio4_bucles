@@ -1,0 +1,19 @@
+inicio 
+leer N 
+A = 0    - contador para numeros iguales a 0 
+B = 0    - contadores para numeros mayores a 0
+C = 0    - contadores para numeros menores a 0
+
+
+
+mientras 
+ si N > 0
+    B = B + 1 
+    mostrar B 
+    si no 
+        si N < 0 
+        C = C + 1
+        mostrar C 
+        si no n = 0 
+        A = A + 1 
+        Mostrar C 
