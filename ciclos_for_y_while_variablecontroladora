@@ -1,0 +1,9 @@
+Inicio 
+SU=0
+C = 1
+Mientras C <= 10
+    leer VA 
+    C = C + 1  -c es la variable controladora
+Fin mientras 
+Escribir SU
+Fin
